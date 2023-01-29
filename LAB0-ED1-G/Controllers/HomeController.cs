@@ -7,6 +7,8 @@ namespace LAB0_ED1_G.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly Persona Persona1;
+        private List<Persona> ListaPersona = new List<Persona>();
 
         public HomeController(ILogger<HomeController> logger)
         {
