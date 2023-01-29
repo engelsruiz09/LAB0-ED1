@@ -7,12 +7,12 @@
         public int? telefono { get; set; } //el ? significa que los objetos son de tipo anulables
         public string Descripcion { get; set; }
 
-        public void OrdenamientoN(//aqui va la lista)
+        public void OrdenamientoN()//aqui va la lista)
         {
 
         }
 
-        public void OrdenamientoA(//aqui tambien la lista)
+        public void OrdenamientoA()//aqui tambien la lista)
         {
 
         }
