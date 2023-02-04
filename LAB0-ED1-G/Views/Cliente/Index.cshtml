@@ -15,28 +15,30 @@
 </p>
 
 <table class="table">
-       <thead>
-           <tr> <!-- thead contiene un bloque de filas tr y th su encabezado-->
-               <th>
-                   @Html.DisplayNameFor(model => model.Nombre)
-               </th>
-               <th>
-                    @Html.DisplayNameFor(model => model.Apellido)
-               </th>
-               <th>
-                    @Html.DisplayNameFor(model => model.telefono)
-               </th>
-               <th>
-                    @Html.DisplayNameFor(model => model.Descripcion)
-               </th>
-           </tr>
-       </thead>
-       <tbody>
-        @foreach(var item in Model)
+    <thead>
+        <tr>
+            <!-- thead contiene un bloque de filas tr y th su encabezado-->
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apellido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.telefono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
         {
             <tr>
-                <td> <!--td - define la celda de una tabla que contiene datos-->
-                    @Html.DisplayNameFor(modelItem => item.Nombre)
+                <td>
+                    <!--td - define la celda de una tabla que contiene datos-->
+                @Html.DisplayNameFor(modelItem => item.Nombre)
                 </td>
                 <td>
                     @Html.DisplayNameFor(modelItem => item.Apellido)
