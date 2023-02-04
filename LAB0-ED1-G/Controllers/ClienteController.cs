@@ -4,14 +4,17 @@ using System.Security.Cryptography.Xml;
 
 namespace LAB0_ED1_G.Controllers
 {
+    
     public class ClienteController : Controller
     {
         //GET: 
+        [Route("Client")]//enrutado a /Client--Ojo con el Camel Case
         public ActionResult Index()
         {
             return View(Singleton.Instance.ClienteList);
         }
         //GET:clientecontroller/create
+        [Route("Client/Create")]//enrutado a /Client/Create --Ojo con el Camel Case
         public ActionResult Create()
         {
             return View();
