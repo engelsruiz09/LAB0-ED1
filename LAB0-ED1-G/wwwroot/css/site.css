@@ -16,3 +16,17 @@ html {
 body {
   margin-bottom: 60px;
 }
+.letra{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fondo {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba( 204, 255, 255, 0.4)),url(../img/fondoP.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 70vh;
+}
+.fondo-texto {
+    background-color: rgba( 204, 255, 255,0.7);
+    border-radius: 10px;
+}

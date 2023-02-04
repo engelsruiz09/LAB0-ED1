@@ -14,21 +14,21 @@ namespace LAB0_ED1_G.Controllers
             return View();
         }
 
-        [HttpPost]
-        public ActionResult Create(FormCollection FC)
-        {
-            try
-            {
-                Nombre = FC["Nombre"];
-                Apellido = FC["Apellido"];
-                Telefono = FC["Telefono"];
-                Descripcion = FC["Descripcion"];
-            }
-            catch 
-            {
+        //[HttpPost]
+        //public ActionResult Create(FormCollection FC)
+        //{
+        //    try
+        //    {
+        //        Nombre = FC["Nombre"];
+        //        Apellido = FC["Apellido"];
+        //        Telefono = FC["Telefono"];
+        //        Descripcion = FC["Descripcion"];
+        //    }
+        //    catch 
+        //    {
 
-                throw;
-            }
-        }
+        //        throw;
+        //    }
+        //}
     }
 }

@@ -15,12 +15,12 @@ namespace LAB0_ED1_G.Models
             ClienteList = new List<Cliente>();
         }
 
-        public static Singleton Instance
-        {
-            get
-            {
-                return_ instance;
-            }
-        }
+        //public static Singleton Instance
+        //{
+        //    get
+        //    {
+        //        return_ instance;
+        //    }
+        //}
     }
 }
