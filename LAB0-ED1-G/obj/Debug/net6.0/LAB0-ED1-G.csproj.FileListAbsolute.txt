@@ -60,3 +60,34 @@ C:\Users\julio\Desktop\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\refint\LAB0-ED1-G.dl
 C:\Users\julio\Desktop\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.pdb
 C:\Users\julio\Desktop\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.genruntimeconfig.cache
 C:\Users\julio\Desktop\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\ref\LAB0-ED1-G.dll
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\bin\Debug\net6.0\appsettings.json
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\bin\Debug\net6.0\LAB0-ED1-G.staticwebassets.runtime.json
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\bin\Debug\net6.0\LAB0-ED1-G.exe
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\bin\Debug\net6.0\LAB0-ED1-G.deps.json
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\bin\Debug\net6.0\LAB0-ED1-G.runtimeconfig.json
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\bin\Debug\net6.0\LAB0-ED1-G.dll
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\bin\Debug\net6.0\LAB0-ED1-G.pdb
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.csproj.AssemblyReference.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.AssemblyInfoInputs.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.AssemblyInfo.cs
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.csproj.CoreCompileInputs.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.RazorAssemblyInfo.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.RazorAssemblyInfo.cs
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\staticwebassets\msbuild.LAB0-ED1-G.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\staticwebassets\msbuild.build.LAB0-ED1-G.props
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LAB0-ED1-G.props
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LAB0-ED1-G.props
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\scopedcss\bundle\LAB0-ED1-G.styles.css
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\scopedcss\projectbundle\LAB0-ED1-G.bundle.scp.css
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.dll
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\refint\LAB0-ED1-G.dll
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.pdb
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\LAB0-ED1-G.genruntimeconfig.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 5\Primer Ciclo\Estructura de Datos 1 (lab)\Lab1\LAB0-ED1\LAB0-ED1-G\obj\Debug\net6.0\ref\LAB0-ED1-G.dll

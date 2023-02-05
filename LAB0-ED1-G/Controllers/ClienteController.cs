@@ -8,13 +8,13 @@ namespace LAB0_ED1_G.Controllers
     public class ClienteController : Controller
     {
         //GET: 
-        [Route("Client")]//enrutado a /Client--Ojo con el Camel Case
+        //[Route("Client")]//enrutado a /Client--Ojo con el Camel Case
         public ActionResult Index()
         {
-            return View(Singleton.Instance.ClienteList);
+            return View(Singleton.Instance.listaclientes);
         }
         //GET:clientecontroller/create
-        [Route("Client/Create")]//enrutado a /Client/Create --Ojo con el Camel Case
+        //[Route("Client/Create")]//enrutado a /Client/Create --Ojo con el Camel Case
         public ActionResult Create()
         {
             return View();
@@ -32,7 +32,7 @@ namespace LAB0_ED1_G.Controllers
                     telefono = Convert.ToInt32(FC["Telefono"]),
                     Descripcion = FC["Descripcion"]
                 };
-                Singleton.Instance.ClienteList.Add(elnuevocliente);
+                Singleton.Instance.listaclientes.Add(elnuevocliente);
                 return RedirectToAction(nameof(Index)); //construye una URL de redireccionamiento a una acción/controlador específico en su aplicación y utiliza la tabla de rutas para generar la URL correcta.
 
             }

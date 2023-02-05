@@ -8,13 +8,13 @@ namespace LAB0_ED1_G.Models
     public sealed class Singleton
     {
         private readonly static Singleton _instance = new Singleton();
-        public List<Cliente> ClienteList;
+        public List<Cliente> listaclientes;
         private readonly static Singleton _instanceorde = new Singleton();
         public Cliente Sort;
 
         private Singleton()
         {
-            ClienteList = new List<Cliente>(); //sean crea los objetos
+            listaclientes = new List<Cliente>(); //sean crea los objetos
             Sort = new Cliente();
         }
 
