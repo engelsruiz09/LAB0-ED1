@@ -8,20 +8,18 @@ namespace LAB0_ED1_G.Controllers
     public class ClienteController : Controller
     {
         //GET: 
-        //[Route("Client")]//enrutado a /Client--Ojo con el Camel Case
         public ActionResult Index()
         {
             return View(Singleton.Instance.listaclientes);
         }
         //GET:clientecontroller/create
-        //[Route("Client/Create")]//enrutado a /Client/Create --Ojo con el Camel Case
         public ActionResult Create()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult Create(FormCollection FC) //aqui va a recibir los campos para crear al nuevo cliente
+        public ActionResult Create(IFormCollection FC) //aqui va a recibir los campos para crear al nuevo cliente
         {
             try
             {
@@ -38,7 +36,6 @@ namespace LAB0_ED1_G.Controllers
             }
             catch
             {
-
                 return View();
             }
         }

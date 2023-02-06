@@ -6,18 +6,22 @@ namespace LAB0_ED1_G.Models
 {
     public class Cliente
     {
-        [Display(Name = "Nombre")]
         [Required]
+        [Display(Name = "Nombre")]
+        
         public string Nombre { get; set; }
 
-        [Display(Name = "Apellido")]
         [Required]
+        [Display(Name = "Apellido")]
+        
         public string Apellido { get; set; }
 
-        [Display(Name = "Numero Telefonico")]
         [Required]
+        [Display(Name = "Numero Telefonico")]
+        
         public int? telefono { get; set; } //el ? significa que los objetos son de tipo anulables
 
+        [Required]
         [Display(Name = "Descripcion del Cliente")]
         public string Descripcion { get; set; }
 
