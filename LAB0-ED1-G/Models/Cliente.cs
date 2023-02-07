@@ -30,7 +30,7 @@ namespace LAB0_ED1_G.Models
             Cliente aux = new Cliente();
             for(int i = 0; i < listaclientes.Count(); i++)
             {
-                for (int j = 0; i < listaclientes.Count() - i - 1; j++)
+                for (int j = 0; j < listaclientes.Count - i - 1; j++)
                 {
                     if (listaclientes[j].Nombre[0] > listaclientes[j + 1].Nombre[0])
                     {
@@ -47,9 +47,9 @@ namespace LAB0_ED1_G.Models
             Cliente aux = new Cliente();
             for (int i = 0; i < listaclientes.Count(); i++)
             {
-                for (int j = 0; i < listaclientes.Count() - i - 1; j++)
+                for (int j = 0; j < listaclientes.Count - i - 1; j++)
                 {
-                    if (listaclientes[j].Nombre[0] > listaclientes[j + 1].Nombre[0])
+                    if (listaclientes[j].Apellido[0] > listaclientes[j + 1].Apellido[0])
                     {
                         aux = listaclientes[j];
                         listaclientes[j] = listaclientes[j + 1];
