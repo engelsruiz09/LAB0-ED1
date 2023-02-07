@@ -1,0 +1,64 @@
+﻿@model LAB0_ED1_G.Models.Cliente
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+@{
+    ViewData["Title"] = "Create"; //establece la propiedad Title del diccionario ViewData 
+    //en "Create". La propiedad Title se usa en el elemento HTML <title>
+}
+
+<div class=""></div>
+<div class="d-flex align-content-center justify-content-center">
+    <h1 class="display-1">CREACIÓN DEL PERFIL </h1>
+    
+</div>
+<div class="text-center mb-5">
+    <h4 class="blockquote">Porfavor introduce tus datos de una manera correcta para que podamos contactar contigo de la manera más correcta</h4>
+</div>
+
+
+<hr />
+<div class="row d-flex align-content-center justify-content-center">
+    <div class="">
+        <form asp-action="Create" class="form p-5 m-5 bg-light ">
+            <!--<div class="text-center "> <h2 class="display-6">Formulario de Creación</h2></div>-->
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group my-5 form-floating">
+                <input asp-for="Nombre" class="form-control w-100" id="valorNombre" placeholder="John"/>
+                <label asp-for="Nombre" class="control-label" for="valorNombre">Introduce tu nombre aqui</label>
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group my-5 form-floating">
+                <input asp-for="Apellido" class="form-control w-100" id="valorApellido" placeholder="Doe" />
+                <label asp-for="Apellido" class="control-label" for="valorApellido">Introduce tu apellido aqui</label>
+                <span asp-validation-for="Apellido" class="text-danger"></span>
+            </div>
+            <div class="form-group my-5 form-floating">
+                <input asp-for="telefono" class="form-control w-100" id="valorNumero" placeholder="1234-5678" />
+                <label asp-for="telefono" class="control-label" for="valorNumero">Introduce tu numero aqui</label>
+                <span asp-validation-for="telefono" class="text-danger"></span>
+            </div>
+            <div class="form-group my-5 form-floating">
+                <input asp-for="Descripcion" class="form-control w-100" id="valorDescripcion" placeholder="Johndoe.com" />
+                <label asp-for="Descripcion" class="control-label" for="valorDescripcion">Introduce la descripcion aqui</label>
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group my-5 d-flex justify-content-center">
+                <input type="submit" value="Crear" class="btn btn-primary p-3 btn-lg" />
+            </div>
+        </form>
+    </div>
+</div>
+<!--asp-controller="Cliente" asp-action="Index"-->
+<div>
+    <a asp-action="Index">Regresar a Lista</a>
+</div>
+
+@section Scripts { <!--sin esto no funciona los REQUIREDS de la clase cliente de models-->
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
