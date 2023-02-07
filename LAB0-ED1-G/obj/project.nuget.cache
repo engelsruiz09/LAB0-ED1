@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "gDdZlpvvIKSliANBipauyvF2/Lwq5R3VNC0kdmQrsGUjWWugJJVKnwos6vfdV24kz5kPT6HqGAYHI6xDP1q2Qw==",
   "success": true,
   "projectFilePath": "C:\\Users\\samer\\Documents\\Programas\\LAB0-ED1\\LAB0-ED1-G\\LAB0-ED1-G.csproj",
-=======
-  "dgSpecHash": "bsq8SiYLGuJ+SGLh1jqbjHWkjQ/DF6GuJ0MS4c9Fsb9nH4rgfI5Gle4zO2xFaOJXfPN3579Fd69JeT8EwZDr8g==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\julio\\Desktop\\LAB0-ED1\\LAB0-ED1-G\\LAB0-ED1-G.csproj",
->>>>>>> 0d0756a8b06e028a152ddda343c0aec12c3fabb5
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\samer\\Documents\\Programas\\LAB0-ED1\\LAB0-ED1-G\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

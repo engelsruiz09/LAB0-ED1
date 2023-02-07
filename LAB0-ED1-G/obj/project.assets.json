@@ -7,38 +7,18 @@
   "projectFileDependencyGroups": {
     "net6.0": []
   },
-  "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\samer\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\julio\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
->>>>>>> 0d0756a8b06e028a152ddda343c0aec12c3fabb5
-  },
+  "packageFolders": {"C:\\Users\\samer\\.nuget\\packages\\": {}},
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\samer\\Documents\\Programas\\LAB0-ED1\\LAB0-ED1-G\\LAB0-ED1-G.csproj",
       "projectName": "LAB0-ED1-G",
       "projectPath": "C:\\Users\\samer\\Documents\\Programas\\LAB0-ED1\\LAB0-ED1-G\\LAB0-ED1-G.csproj",
       "packagesPath": "C:\\Users\\samer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\samer\\Documents\\Programas\\LAB0-ED1\\LAB0-ED1-G\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\julio\\Desktop\\LAB0-ED1\\LAB0-ED1-G\\LAB0-ED1-G.csproj",
-      "projectName": "LAB0-ED1-G",
-      "projectPath": "C:\\Users\\julio\\Desktop\\LAB0-ED1\\LAB0-ED1-G\\LAB0-ED1-G.csproj",
-      "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julio\\Desktop\\LAB0-ED1\\LAB0-ED1-G\\obj\\",
->>>>>>> 0d0756a8b06e028a152ddda343c0aec12c3fabb5
       "projectStyle": "PackageReference",
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\samer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 0d0756a8b06e028a152ddda343c0aec12c3fabb5
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -46,7 +26,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -70,8 +49,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -83,12 +61,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
->>>>>>> 0d0756a8b06e028a152ddda343c0aec12c3fabb5
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\samer\\Documents\\Programas\\LAB0-ED1\\LAB0-ED1-G\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
