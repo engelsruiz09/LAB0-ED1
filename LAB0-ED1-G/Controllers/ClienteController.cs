@@ -39,5 +39,16 @@ namespace LAB0_ED1_G.Controllers
                 return View();
             }
         }
+        
+        public ActionResult SortN()
+        {
+            Singleton.Instance2.Sort.OrdenamientoN(Singleton.Instance.listaclientes);
+            return RedirectToAction(nameof(Index));
+        }
+        public ActionResult SortL()
+        {
+            Singleton.Instance2.Sort.OrdenamientoA(Singleton.Instance.listaclientes);
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
